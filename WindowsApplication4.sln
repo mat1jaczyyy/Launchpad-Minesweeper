@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Launchpad Visualizer", "WindowsApplication4\Launchpad Visualizer.vbproj", "{0B19666E-A5B7-4F85-B3FC-D02415673822}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DualPort", "DualPort\DualPort.vbproj", "{70DD045C-FE5C-421B-A2B0-53FFD7902F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B19666E-A5B7-4F85-B3FC-D02415673822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B19666E-A5B7-4F85-B3FC-D02415673822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B19666E-A5B7-4F85-B3FC-D02415673822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B19666E-A5B7-4F85-B3FC-D02415673822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DD045C-FE5C-421B-A2B0-53FFD7902F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DD045C-FE5C-421B-A2B0-53FFD7902F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DD045C-FE5C-421B-A2B0-53FFD7902F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DD045C-FE5C-421B-A2B0-53FFD7902F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC65A8E-75A6-40DD-90F1-A6EAA9CAB771}
+	EndGlobalSection
+EndGlobal
